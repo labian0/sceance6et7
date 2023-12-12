@@ -1,0 +1,13 @@
+#head-nav .nav-item{
+    background-color: yellow;
+    list-style-type: none;
+    flex: 1;
+    text-align: center;
+    margin-inline: 30px;
+}
+#head-nav > ul{
+    padding: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
