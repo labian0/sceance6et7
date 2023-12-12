@@ -1,0 +1,15 @@
+#main{
+    display: flex;
+}
+#main .inline-paragraph{
+    padding: 5px;
+}
+#main .first{
+    background-color: green;
+}
+#main .second{
+    background-color: orange;
+}
+#main .third{
+    background-color: gray;
+}
